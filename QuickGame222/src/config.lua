@@ -4,7 +4,7 @@ DEBUG = 1
 
 -- display FPS stats on screen
 DEBUG_FPS = true
-
+--the git test
 -- dump memory info every 10 seconds
 DEBUG_MEM = false
 
